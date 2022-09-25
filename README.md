@@ -1,2 +1,2 @@
 # wikipedia_scrapper
-AI Data Science
+## first project from training of AI Data science
